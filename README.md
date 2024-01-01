@@ -3,8 +3,6 @@ A curated list of Artificial Intelligence (AI) courses, books, video lectures an
 
 Contributions most welcome.
 
-![](https://media.giphy.com/media/jeAQYN9FfROX6/giphy.gif)
-
 ## Contents
 
 1. [Courses](#courses)
